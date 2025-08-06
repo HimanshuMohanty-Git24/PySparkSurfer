@@ -164,7 +164,7 @@ You can try with open datasets like:
 
 **Himanshu Mohanty**
 Passionate about AI, NLP, and LLM-based intelligent systems.
-[GitHub](https://github.com/himanshumohanty) • [LinkedIn](https://www.linkedin.com/in/himanshumohanty/)
+[GitHub](https://github.com/HimanshuMohanty-Git24) • [LinkedIn](https://www.linkedin.com/in/himanshumohanty/)
 
 ---
 
